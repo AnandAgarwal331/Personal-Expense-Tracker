@@ -26,7 +26,6 @@ The Expense Tracking Database Management System `DBMS` project is a user-friendl
      ```bash
      git clone https://github.com/EbeyJoeRegi/Personal-Expense-Tracker.git
      ```
-
 5. **Setting up the Database :**
    - Open phpMyAdmin by going to `http://localhost/phpmyadmin` in your browser.
    - Log in using the default credentials ( username: `root`, no password by default ).
