@@ -58,4 +58,5 @@ The Expense Tracking Database Management System `DBMS` project is a user-friendl
    - Use the XAMPP control panel to start/stop Apache, MySQL, and other services as needed.
 
 ---
+
 ![Home Page](uploads/Home-Page.png)
